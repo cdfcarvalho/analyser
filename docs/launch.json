@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "MainFolder.Main",  // Make sure this matches the package and class of your Main.java
+            "projectName": "POO PROJECT"  // Replace with your actual project name
+        }
+    ]
+}
